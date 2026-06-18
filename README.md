@@ -46,3 +46,6 @@
 ![Javed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javedshah11&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javedshah11&layout=compact&theme=tokyonight)
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Javedshah11/Javedshah11/blob/output/github-contribution-grid-snake.svg)
