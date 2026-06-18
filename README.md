@@ -99,15 +99,16 @@ A multilingual Urdu & English news platform.
 
 ## 🌐 Connect With Me
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Javedshah11/Javedshah11/output/github-contribution-grid-snake.svg)
-
 * 📧 Email: kingdompeople3@gmail.com
 * 💼 LinkedIn: (https://www.linkedin.com/in/javed-shah-/)
 * 🌍 Portfolio: javed-portfolio-brown.vercel.app
 * 💻 GitHub: https://github.com/Javedshah11
 
 ---
+## 🐍 Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/Javedshah11/Javedshah11/output/github-contribution-grid-snake.svg)
+
+
+---
 ⭐ Always learning, building, and contributing to open-source projects.
