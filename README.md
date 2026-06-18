@@ -84,9 +84,6 @@ A multilingual Urdu & English news platform.
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Javedshah11&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribution Graph
 
