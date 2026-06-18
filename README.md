@@ -78,15 +78,15 @@ A multilingual Urdu & English news platform.
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Javedshah11\&theme=tokyonight)
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Javedshah11&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Javedshah11\&theme=tokyonight\&row=1\&column=6)
-
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=Javedshah11&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribution Graph
 
