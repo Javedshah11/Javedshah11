@@ -41,3 +41,8 @@
 - Admin & Journalist Dashboards
 
 ---
+## 📊 GitHub Stats
+
+![Javed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javedshah11&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javedshah11&layout=compact&theme=tokyonight)
