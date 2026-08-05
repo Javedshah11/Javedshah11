@@ -31,6 +31,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
+
 ---
 
 ## 🚀 Featured Projects
