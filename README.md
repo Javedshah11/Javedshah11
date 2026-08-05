@@ -21,14 +21,23 @@
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge\&logo=tailwindcss)
+
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
+
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 
