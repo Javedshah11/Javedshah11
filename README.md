@@ -29,6 +29,7 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
