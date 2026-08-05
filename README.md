@@ -73,9 +73,9 @@ A multilingual Urdu & English news platform.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Javedshah11\&show_icons=true\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Javedshah11&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javedshah11\&layout=compact\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javedshah11&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
