@@ -158,9 +158,11 @@ A developer-focused workspace inspired by modern coding environments.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Javedshah11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=Javedshah11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Javed Shah GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javedshah11&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javedshah11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Javed Shah Top Languages" />
 
 </div>
 
