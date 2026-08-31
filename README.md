@@ -1,124 +1,171 @@
-# Hi there 👋 I'm Javed Shah
+<h1 align="center">Hi, I'm Javed Shah 👋</h1>
 
-💻 Full Stack Developer (MERN Stack)
-
-🚀 Passionate about building scalable web applications
-
-📍 Pakistan
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 BS Software Engineering Graduate
-* 🌱 Learning Advanced Backend Systems & Cloud Deployment
-* 🤖 Interested in AI, SaaS, and Modern Web Applications
-* 🚀 Building Full-Stack MERN Projects
-* 🎯 Goal: Become a Top Full Stack Engineer
-
----
-
-## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge\&logo=tailwindcss)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-
-
----
-
-## 🚀 Featured Projects
-
-### 🏢 OpenHouse Connect (FYP)
-
-A Full-Stack MERN platform connecting students and companies during university open house events.
-
-#### Features
-
-* JWT Authentication & Authorization
-* Student Dashboard
-* Company Dashboard
-* Job Management System
-* AI CV Matching & Scoring
-* PDF Shortlisting System
-* Email Verification & Password Reset
-* MongoDB Database Integration
-
-**Tech:** React, Node.js, Express, MongoDB, JWT, Tailwind CSS
-
----
-
-### 📰 News Portal
-
-A multilingual Urdu & English news platform.
-
-#### Features
-
-* Journalist Dashboard
-* Admin Dashboard
-* News Management
-* Category Management
-* Responsive Design
-* Multi-language Support
-
----
-
-## 📊 GitHub Statistics
+<h3 align="center">
+Software Engineer • Full-Stack Developer • Product Builder
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Javedshah11?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Javedshah11?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars" />
+Building scalable, secure, and user-focused web applications with JavaScript, TypeScript, React, Next.js, Node.js, and modern backend technologies.
 </p>
 
-## 💻 Main Languages
+<p align="center">
+  <a href="https://www.linkedin.com/in/javedshahdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Javed%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://javed-portfolio-brown.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:kingdompeople3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+I'm **Javed Shah**, a Software Engineer and Full-Stack Developer based in Islamabad, Pakistan.
+
+I focus on building production-oriented web applications, developer tools, dashboards, APIs, authentication systems, and modern full-stack products.
+
+- Software Engineering graduate
+- Full-stack development with JavaScript and TypeScript
+- React, Next.js, Node.js, Express.js, MongoDB and REST APIs
+- Building scalable and maintainable software
+- Interested in AI-powered products, SaaS, developer tooling, and backend architecture
+- Focused on clean code, usability, performance, security, and real-world engineering
+
+---
+
+## Tech Stack
+
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
----
 
+### Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## 🔥 GitHub Streak
+### Backend
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Javedshah11&theme=tokyonight)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
----
+### Tools
 
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Javedshah11\&theme=tokyo-night)
-
----
-
-## 💻 Profile Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Javedshah11\&theme=github_dark)
-
----
-
-## 🌐 Connect With Me
-
-* 📧 Email: kingdompeople3@gmail.com
-* 💼 LinkedIn: (https://www.linkedin.com/in/javed-shah-/)
-* 🌍 Portfolio: javed-portfolio-brown.vercel.app
-* 💻 GitHub: https://github.com/Javedshah11
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Javedshah11/Javedshah11/output/github-contribution-grid-snake.svg)
+# Featured Projects
 
+## OpenHouse Connect
+
+**AI-powered university open-house and student-company matching platform.**
+
+A full-stack MERN application designed to connect students with companies based on skills, CV data, job requirements, and compatibility scoring.
+
+### Key Features
+
+- Student, company, and admin workflows
+- JWT authentication and authorization
+- Email verification and password recovery
+- Job posting and application management
+- AI-based CV matching and compatibility scoring
+- Student and company dashboards
+- PDF shortlisting
+- Responsive interface
+- REST API architecture
+
+**Tech:** React • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
 
 ---
-⭐ Always learning, building, and contributing to open-source projects.
+
+## NAYRO
+
+**Modern full-stack e-commerce platform focused on reliable shopping and administrative workflows.**
+
+Work includes:
+
+- Product and inventory management
+- Customer authentication and guest checkout flows
+- Order lifecycle and tracking
+- Secure checkout architecture
+- Admin product publishing workflows
+- Form and backend validation
+- Responsive customer and admin interfaces
+- API integration and production-oriented engineering
+
+---
+
+## Tervynix
+
+**Developer workspace platform focused on modern coding workflows and runtime tooling.**
+
+Areas being developed include:
+
+- Monaco-powered code workspace
+- Integrated terminal
+- Process, port, and task management
+- Runtime history
+- WebSocket-based realtime updates
+- Persistent developer workspace state
+- Modern TypeScript-oriented architecture
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Javedshah11&show_icons=true&hide_border=true" alt="Javed Shah GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javedshah11&hide_border=true" alt="Javed Shah GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javedshah11&layout=compact&hide_border=true" alt="Javed Shah Most Used Languages" />
+</p>
+
+---
+
+## Contribution Activity
+
+![Javed Shah GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Javedshah11)
+
+---
+
+## Connect With Me
+
+- Portfolio: [javed-portfolio-brown.vercel.app](https://javed-portfolio-brown.vercel.app/)
+- LinkedIn: [linkedin.com/in/javedshahdev](https://www.linkedin.com/in/javedshahdev/)
+- GitHub: [github.com/Javedshah11](https://github.com/Javedshah11)
+- Email: kingdompeople3@gmail.com
+
+---
+
+## Currently Focused On
+
+- Advanced full-stack engineering
+- TypeScript and modern React/Next.js architecture
+- Backend systems and APIs
+- Developer tooling
+- AI-enabled products
+- Building production-ready software
+
+---
+
+<p align="center">
+  <b>Build useful software. Solve real problems. Keep improving.</b>
+</p>
