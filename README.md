@@ -298,17 +298,11 @@ const javedShah = {
 
 ---
 
-# 🧊 Animated 3D Contribution Graph
+## 🧊 Animated 3D Contribution Graph
 
-<div align="center">
-
-<img
-  src="./profile-3d-contrib/profile-green-animate.svg"
-  alt="Javed Shah Animated 3D GitHub Contribution Graph"
-  width="100%"
-/>
-
-</div>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Javed Shah 3D GitHub Contribution Graph" />
+</p>
 
 > Automatically generated from GitHub contribution activity.
 
