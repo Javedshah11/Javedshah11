@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<a href="https://javed-portfolio-brown.vercel.app/">
+<a href="https://javedshah.com/">
   <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Javed Shah Portfolio"/>
 </a>
 
@@ -589,7 +589,7 @@ This GitHub profile showcases my:
 
 <br/>
 
-<a href="https://javed-portfolio-brown.vercel.app/">
+<a href="https://javedshah.com/">
   <img src="https://img.shields.io/badge/Explore%20My%20Work-Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Javed Shah Portfolio"/>
 </a>
 
