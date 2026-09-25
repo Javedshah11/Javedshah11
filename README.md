@@ -282,6 +282,34 @@ const javedShah = {
 `TypeScript` `React.js` `Next.js` `Node.js` `WebSockets` `Monaco Editor` `xterm.js`
 
 ---
+## 🤖 Lynvado Assistant
+
+### Secure Local-First AI Support System
+
+Lynvado Assistant is a product-grounded AI support system built with
+Next.js, TypeScript, Ollama and Qwen 2.5 3B.
+
+### ✨ Engineering Highlights
+
+- 🧠 Local LLM inference with Ollama
+- 🤖 Qwen 2.5 3B integration
+- 💬 Multi-turn contextual conversations
+- 📚 Structured public knowledge retrieval
+- 🔎 RAG/retrieval fundamentals
+- 🛡️ Prompt-injection protection
+- 🔐 Internal-data and source-code protection
+- 🌍 Multilingual jailbreak detection
+- 🧩 Obfuscation and mixed-intent protection
+- 🚧 Output security validation
+- 💾 Conversation persistence
+- 🧪 249 automated security regression tests
+- ✅ TypeScript + ESLint clean production build
+
+### 🛠 Technology
+
+`Next.js` `React` `TypeScript` `Ollama` `Qwen 2.5 3B`
+`Vitest` `Local LLMs` `AI Security` `Knowledge Retrieval`
+
 
 # 🔥 GitHub Streak
 
