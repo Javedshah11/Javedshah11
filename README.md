@@ -286,8 +286,7 @@ const javedShah = {
 
 ### Secure Local-First AI Support System
 
-Lynvado Assistant is a product-grounded AI support system built with
-Next.js, TypeScript, Ollama and Qwen 2.5 3B.
+Lynvado Assistant is a product-grounded AI support system built with Next.js, TypeScript, Ollama, and Qwen 2.5 3B.
 
 ### ✨ Engineering Highlights
 
@@ -307,15 +306,18 @@ Next.js, TypeScript, Ollama and Qwen 2.5 3B.
 
 ### 🛠 Technology
 
-`Next.js` `React` `TypeScript` `Ollama` `Qwen 2.5 3B`
+`Next.js` `React` `TypeScript` `Ollama` `Qwen 2.5 3B`  
 `Vitest` `Local LLMs` `AI Security` `Knowledge Retrieval`
 
+### 🌐 Live Website
+
 <p>
-  <a href=" https://www.lynvado.online/">
-    <img src="https://img.shields.io/badge/Visit%20NAYRO-Live%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit NAYRO"/>
+  <a href="https://www.lynvado.online/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Lynvado-Live%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Lynvado Live Website"/>
   </a>
 </p>
 
+👉 **[
 
 
 # 🔥 GitHub Streak
