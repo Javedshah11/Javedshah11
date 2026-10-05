@@ -310,6 +310,8 @@ Next.js, TypeScript, Ollama and Qwen 2.5 3B.
 `Next.js` `React` `TypeScript` `Ollama` `Qwen 2.5 3B`
 `Vitest` `Local LLMs` `AI Security` `Knowledge Retrieval`
 
+## live = https://www.lynvado.online/
+
 
 # 🔥 GitHub Streak
 
