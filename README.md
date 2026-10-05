@@ -310,7 +310,12 @@ Next.js, TypeScript, Ollama and Qwen 2.5 3B.
 `Next.js` `React` `TypeScript` `Ollama` `Qwen 2.5 3B`
 `Vitest` `Local LLMs` `AI Security` `Knowledge Retrieval`
 
-## live = https://www.lynvado.online/
+<p>
+  <a href=" https://www.lynvado.online/">
+    <img src="https://img.shields.io/badge/Visit%20NAYRO-Live%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit NAYRO"/>
+  </a>
+</p>
+
 
 
 # 🔥 GitHub Streak
